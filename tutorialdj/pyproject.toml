@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "tutorialdj"
+version = "0.1.0"
+description = ""
+authors = ["renantamashiro <tamashirorenan@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+django = "^3.0.8"
+
+[tool.poetry.scripts]
+tut = "src.manage:main"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

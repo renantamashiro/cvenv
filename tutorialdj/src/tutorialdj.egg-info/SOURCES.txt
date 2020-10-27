@@ -1,0 +1,13 @@
+README.rst
+setup.py
+src/tutorialdj/__init__.py
+src/tutorialdj/asgi.py
+src/tutorialdj/settings.py
+src/tutorialdj/urls.py
+src/tutorialdj/wsgi.py
+src/tutorialdj.egg-info/PKG-INFO
+src/tutorialdj.egg-info/SOURCES.txt
+src/tutorialdj.egg-info/dependency_links.txt
+src/tutorialdj.egg-info/entry_points.txt
+src/tutorialdj.egg-info/requires.txt
+src/tutorialdj.egg-info/top_level.txt
